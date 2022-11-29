@@ -1,0 +1,16 @@
+﻿0,04/mayo/2021,Donitas espolvoreadas,2,15.5,Transferencia
+1,05/mayo/2021,Pingüinos,1,18.5,Efectivo
+2,04/mayo/2021,Magdalenas,2,15,Tarjeta débito
+3,04/mayo/2021,Panditas,2,15.3,Efectivo
+4,04/mayo/2021,Doritos,2,18,Cheque
+5,05/mayo/2021,Cacahuates,2,15.8,Efectivo
+6,05/mayo/2021,Ruffes,2,18.5,Tarjeta crédito
+7,05/mayo/2021,Cheetos,3,15.85,Cupones descuento
+8,04/mayo/2021,Papitas,9999,0.5,Efectivo
+9,05/mayo/2021,Coca cola 600 ml.,5,25.8,Vales de despensa
+10,27/mayo/2021,tapones auditivos,600,8,Tarjeta crédito
+11,02/junio/2021,Papitas,5,20.3,Efectivo
+12,02/junio/2021,oreos,5,12.8,Transferencia
+13,02/junio/2021,Cacahuates,2,18.5,Tarjeta débito
+14,21/octubre/2021,Choco roles,2,17.8,Efectivo
+15,21/octubre/2021,Galletas,8,1,Tarjeta débito

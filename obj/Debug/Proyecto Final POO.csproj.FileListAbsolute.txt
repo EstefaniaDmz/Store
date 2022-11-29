@@ -1,0 +1,17 @@
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\bin\Debug\Proyecto Final POO.exe.config
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\bin\Debug\Proyecto Final POO.exe
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\bin\Debug\Proyecto Final POO.pdb
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto Final POO.csprojAssemblyReference.cache
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto_Final_POO.Form1.resources
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto_Final_POO.Properties.Resources.resources
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto Final POO.csproj.GenerateResource.cache
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto Final POO.csproj.CoreCompileInputs.cache
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto Final POO.exe
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto Final POO.pdb
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto_Final_POO.DialogBoxAgregar.resources
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto_Final_POO.DialogBoxResultado.resources
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto_Final_POO.DialogBoxModicaaarrrr.resources
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto_Final_POO.DialogBoxEliminar.resources
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto_Final_POO.DialogBoxBuscar.resources
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto_Final_POO.DialogBoxManual.resources
+C:\Users\ANDREITA\source\repos\Proyecto Final POO\obj\Debug\Proyecto_Final_POO.DialogBoxInfoPrograma.resources
